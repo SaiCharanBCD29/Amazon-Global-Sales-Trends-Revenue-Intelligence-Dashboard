@@ -23,7 +23,7 @@ enterprise.Find for me Sales-trend -> month wise , year wise , yearly_month wise
 [![Dashboard1.png](https://i.postimg.cc/Gp3yq0cT/Dashboard1.png)](https://postimg.cc/Sn5RxvYm)
 
 [![Dashboard2.png](https://i.postimg.cc/RVyRqZLC/Dashboard2.png)](https://postimg.cc/vc79NMKC)
-Watch the complete Dashboard video [Link](https://youtu.be/Ryybc-pR3TE)
+
 
 ## ✔️ Conclusion
 1. 2017 had the highest Revenue at 85.12M, followed by 2019 at 76.12 and 2018 at 20.36M
